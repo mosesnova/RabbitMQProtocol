@@ -16,3 +16,5 @@
 
 ![Test Imag 8](https://github.com/mosesnova/RabbitMQProtocol/blob/master/git.jpg)
 
+![Test Imag 8](https://github.com/mosesnova/RabbitMQProtocol/blob/master/aws.jpg)
+

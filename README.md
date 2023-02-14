@@ -18,4 +18,6 @@
 
 ![Test Imag 8](https://github.com/mosesnova/RabbitMQProtocol/blob/master/aws.jpg)
 ![Test Imag 8](https://github.com/mosesnova/RabbitMQProtocol/blob/master/sripthy.jpeg)
+Steroid (Bluetooth IEEE802.11)
+![Test Imag 8](https://github.com/mosesnova/RabbitMQProtocol/blob/master/steroid.jpeg)
 

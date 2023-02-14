@@ -20,4 +20,5 @@
 ![Test Imag 8](https://github.com/mosesnova/RabbitMQProtocol/blob/master/sripthy.jpeg)
 Steroid (Bluetooth IEEE802.11)
 ![Test Imag 8](https://github.com/mosesnova/RabbitMQProtocol/blob/master/sterioid.jpg)
+![Test Imag 8](https://github.com/mosesnova/RabbitMQProtocol/blob/master/rolling.jpg)
 
